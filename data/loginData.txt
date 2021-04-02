@@ -1,0 +1,5 @@
+user,johncena1997,12345678
+user,vandarkholme,12345678
+manager,manager1,12345678
+user,billgates,12345678
+staff,staff1,12345678
